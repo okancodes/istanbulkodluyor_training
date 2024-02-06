@@ -1,0 +1,14 @@
+/Users/okan/Desktop/ikodluyor_training/bin/Debug/net8.0/ikodluyor_training
+/Users/okan/Desktop/ikodluyor_training/bin/Debug/net8.0/ikodluyor_training.deps.json
+/Users/okan/Desktop/ikodluyor_training/bin/Debug/net8.0/ikodluyor_training.runtimeconfig.json
+/Users/okan/Desktop/ikodluyor_training/bin/Debug/net8.0/ikodluyor_training.dll
+/Users/okan/Desktop/ikodluyor_training/bin/Debug/net8.0/ikodluyor_training.pdb
+/Users/okan/Desktop/ikodluyor_training/obj/Debug/net8.0/ikodluyor_training.GeneratedMSBuildEditorConfig.editorconfig
+/Users/okan/Desktop/ikodluyor_training/obj/Debug/net8.0/ikodluyor_training.AssemblyInfoInputs.cache
+/Users/okan/Desktop/ikodluyor_training/obj/Debug/net8.0/ikodluyor_training.AssemblyInfo.cs
+/Users/okan/Desktop/ikodluyor_training/obj/Debug/net8.0/ikodluyor_training.csproj.CoreCompileInputs.cache
+/Users/okan/Desktop/ikodluyor_training/obj/Debug/net8.0/ikodluyor_training.dll
+/Users/okan/Desktop/ikodluyor_training/obj/Debug/net8.0/refint/ikodluyor_training.dll
+/Users/okan/Desktop/ikodluyor_training/obj/Debug/net8.0/ikodluyor_training.pdb
+/Users/okan/Desktop/ikodluyor_training/obj/Debug/net8.0/ikodluyor_training.genruntimeconfig.cache
+/Users/okan/Desktop/ikodluyor_training/obj/Debug/net8.0/ref/ikodluyor_training.dll

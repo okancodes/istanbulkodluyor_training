@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ikodluyor_training/1.0.0": {
+        "runtime": {
+          "ikodluyor_training.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ikodluyor_training/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
